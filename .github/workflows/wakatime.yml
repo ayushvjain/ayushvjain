@@ -25,7 +25,7 @@ jobs:
           GH_TOKEN: ${{ secrets.WAKATIME_GH_PAT }}  # <-- use PAT instead
           SHOW_TITLE: true
           SECTION_NAME: waka
-          SHOW_TIME: true
-          SHOW_TOTAL: true
+          SHOW_TIME: false
+          SHOW_TOTAL: false
           SHOW_MASKED_TIME: false
           COMMIT_MESSAGE: "Update WakaTime stats in README"
