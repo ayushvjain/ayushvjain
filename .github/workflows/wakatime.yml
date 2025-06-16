@@ -38,5 +38,6 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_SHORT_INFO: false
           SHOW_UPDATED_DATE: false
+          SHOW_TIMEZONE: false
           SHOW_TOTAL_CODE_TIME: false
           COMMIT_MESSAGE: "Update WakaTime stats in README"
