@@ -24,12 +24,6 @@
 
 <h2>📊 My Weekly WakaTime Coding Stats</h2>
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-```
-
 **I Mostly Code in Jupyter Notebook** 
 
 ```text
