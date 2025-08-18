@@ -24,7 +24,7 @@
 
 <h2>📊 My Weekly WakaTime Coding Stats</h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2045%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -37,5 +37,5 @@ JSON                     2 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/08/2025 01:17:01 UTC
+ Last Updated on 18/08/2025 01:16:17 UTC
 <!--END_SECTION:waka-->
