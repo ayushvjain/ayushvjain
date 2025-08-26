@@ -24,18 +24,16 @@
 
 <h2>📊 My Weekly WakaTime Coding Stats</h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-164%20hrs%2023%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 5 mins        █████████████████████░░░░   85.70 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Python                   33 mins             █████████████████████████   98.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
- Last Updated on 25/08/2025 01:09:43 UTC
+ Last Updated on 26/08/2025 01:07:50 UTC
 <!--END_SECTION:waka-->
