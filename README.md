@@ -24,17 +24,17 @@
 
 <h2>📊 My Weekly WakaTime Coding Stats</h2>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-172%20hrs%2016%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 10 mins       █████████████████░░░░░░░░   68.59 % 
-SQL                      1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   31.39 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   9 hrs 5 mins        ██████████████████████░░░   89.05 % 
+SQL                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 
- Last Updated on 05/09/2025 01:03:29 UTC
+ Last Updated on 06/09/2025 01:02:09 UTC
 <!--END_SECTION:waka-->
