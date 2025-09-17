@@ -24,6 +24,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.WAKATIME_GH_PAT }}
           RANGE: last_7_days
+          FORCE_UPDATE: true
           SHOW_LANGUAGE: true
           SHOW_UPDATED_DATE: true
           SHOW_LANGUAGE_PER_REPO: false
