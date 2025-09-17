@@ -22,6 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvjain&" alt="ayushvjain" /></p>
 
+<!--START_SECTION:waka-->
 <h2>📊 My Weekly WakaTime Coding Stats</h2>
 
 📊 **This Week I Spent My Time On** 
