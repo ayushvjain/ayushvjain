@@ -23,8 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvjain&" alt="ayushvjain" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2040%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -41,5 +39,5 @@ DataGrip                 38 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 23/09/2025 03:02:54 UTC
+ Last Updated on 23/09/2025 04:29:10 UTC
 <!--END_SECTION:waka-->
