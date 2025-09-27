@@ -23,20 +23,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvjain&" alt="ayushvjain" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 38 mins       ██████████████████░░░░░░░   73.74 % 
-SQL                      1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Python                   3 hrs 30 mins       ██████████████████░░░░░░░   72.99 % 
+SQL                      1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/09/2025 04:28:16 UTC
+ Last Updated on 27/09/2025 05:22:29 UTC
 <!--END_SECTION:waka-->
