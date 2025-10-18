@@ -23,7 +23,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushvjain&" alt="ayushvjain" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-234%20hrs%2033%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,5 +40,5 @@ VS Code                  13 hrs 17 mins      ███████████�
 ```
 
 
- Last Updated on 18/10/2025 16:28:49 UTC
+ Last Updated on 18/10/2025 17:19:07 UTC
 <!--END_SECTION:waka-->
