@@ -19,14 +19,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             ███████████████░░░░░░░░░░   58.56 % 
-JSON                     13 mins             █████████░░░░░░░░░░░░░░░░   37.74 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+JSON                     13 mins             ████████████████████░░░░░   81.75 % 
+Python                   1 min               ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.00 % 
+VS Code                  16 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/03/2026 05:00:45 UTC
+ Last Updated on 24/03/2026 07:14:44 UTC
 <!--END_SECTION:waka-->
