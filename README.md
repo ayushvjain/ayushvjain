@@ -19,15 +19,12 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 mins             ███████████░░░░░░░░░░░░░░   43.24 % 
-JSON                     9 mins              ██████████░░░░░░░░░░░░░░░   39.29 % 
-Python                   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+JavaScript               10 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/04/2026 06:32:23 UTC
+ Last Updated on 29/04/2026 09:18:48 UTC
 <!--END_SECTION:waka-->
