@@ -15,6 +15,20 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%206%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 04/06/2026 08:55:21 UTC
+```text
+💬 Programming Languages: 
+Python                   32 mins             ████████░░░░░░░░░░░░░░░░░   33.52 % 
+JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+JSON                     21 mins             █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Markdown                 13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+
+🔥 Editors: 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 04/06/2026 12:08:06 UTC
 <!--END_SECTION:waka-->
