@@ -13,37 +13,37 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-433%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.81 % 
-TypeScript               2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Python                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 6 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
+TypeScript               2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Python                   2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 🔥 Editors: 
-Claude Code              15 hrs              ████████████████████░░░░░   80.90 % 
-VS Code                  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Claude Code              15 hrs 14 mins      ████████████████████░░░░░   81.12 % 
+VS Code                  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 6 mins (86.82%)
+⏱ AI Coding Time: 16 hrs 20 mins (86.97%)
 
 ✍️ 25,879 lines written by AI, 812 lines written by hand (96.96% AI-written)
 
-🔤 6,949,872 Input Tokens, 1,604,958 Output Tokens
+🔤 7,432,147 Input Tokens, 1,625,904 Output Tokens
 
-💵 $274.30 Estimated AI Cost This Week
+💵 $282.49 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 104 AI Prompts
+🧠 23 AI Sessions, 107 AI Prompts
 
 Opus                     26,647 lines        ████████████████████████░   97.71 % 
 Sonnet                   624 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
@@ -51,11 +51,11 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 96.96% of written lines came from AI
-📚 Verbose Prompter — average 2,584 characters per prompt
+📚 Verbose Prompter — average 2,523 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 3.51% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/08/2026 04:44:24 UTC
+ Last Updated on 20/08/2026 05:36:52 UTC
 <!--END_SECTION:waka-->
