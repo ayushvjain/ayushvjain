@@ -21,39 +21,39 @@
 
 ```text
 💬 Programming Languages: 
-TSConfig                 39 mins             ████████░░░░░░░░░░░░░░░░░   31.95 % 
-Markdown                 33 mins             ███████░░░░░░░░░░░░░░░░░░   27.23 % 
-JSON                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-YAML                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+TSConfig                 39 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
+JSON                     27 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+YAML                     21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Markdown                 20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Other                    11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 🔥 Editors: 
-Claude Code              1 hr 31 mins        ███████████████████░░░░░░   74.14 % 
-VS Code                  32 mins             ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Claude Code              1 hr 27 mins        ██████████████████░░░░░░░   72.78 % 
+VS Code                  32 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 32 mins (74.72%)
+⏱ AI Coding Time: 1 hr 28 mins (73.94%)
 
-✍️ 1,130 lines written by AI, 2 lines written by hand (99.82% AI-written)
+✍️ 1,136 lines written by AI, 2 lines written by hand (99.82% AI-written)
 
-🔤 834,774 Input Tokens, 83,916 Output Tokens
+🔤 357,629 Input Tokens, 66,437 Output Tokens
 
-💵 $14.93 Estimated AI Cost This Week
+💵 $10.01 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 16 AI Prompts
 
-Opus                     1,130 lines         █████████████████████████   100.00 % 
+Opus                     1,136 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.82% of written lines came from AI
-📄 Detailed Prompter — average 569 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.09% of changed lines were hand-edited
+📄 Detailed Prompter — average 570 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 23:16:52 UTC
+ Last Updated on 27/08/2026 08:54:09 UTC
 <!--END_SECTION:waka-->
