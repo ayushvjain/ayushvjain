@@ -21,41 +21,40 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 19 mins       ██████████████░░░░░░░░░░░   55.91 % 
-Other                    2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-TypeScript               1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Markdown                 8 hrs 39 mins       ████████████████░░░░░░░░░   65.43 % 
+Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Python                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JavaScript               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 10 mins      █████████████████████░░░░   85.42 % 
-VS Code                  1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Claude Code              10 hrs 26 mins      ████████████████████░░░░░   78.97 % 
+VS Code                  2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 20 mins (94.26%)
+⏱ AI Coding Time: 11 hrs 59 mins (90.67%)
 
-✍️ 12,482 lines written by AI, 1,135 lines written by hand (91.66% AI-written)
+✍️ 11,110 lines written by AI, 969 lines written by hand (91.98% AI-written)
 
-🔤 6,547,703 Input Tokens, 1,284,932 Output Tokens
+🔤 7,140,470 Input Tokens, 1,206,209 Output Tokens
 
-💵 $271.54 Estimated AI Cost This Week
+💵 $325.79 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 55 AI Prompts
+🧠 14 AI Sessions, 49 AI Prompts
 
-Opus                     17,499 lines        ████████████████████░░░░░   78.10 % 
-Sonnet                   4,907 lines         █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     17,535 lines        ███████████████████████░░   93.39 % 
+Sonnet                   1,241 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.66% of written lines came from AI
-📚 Verbose Prompter — average 4,905 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 14.02% of changed lines were hand-edited
+🤖 AI-Driven — 91.98% of written lines came from AI
+📚 Verbose Prompter — average 5,860 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 15.67% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 01:16:11 UTC
+ Last Updated on 16/09/2026 07:33:58 UTC
 <!--END_SECTION:waka-->
