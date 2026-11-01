@@ -17,6 +17,44 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-163%20hrs%2048%20mins-blue?style=flat)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 01/11/2026 14:55:29 UTC
+```text
+💬 Programming Languages: 
+JavaScript               5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
+Markdown                 4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Python                   1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+
+🔥 Editors: 
+Claude Code              13 hrs 21 mins      ███████████████████████░░   91.47 % 
+VS Code                  1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 50 mins (94.71%)
+
+✍️ 30,717 lines written by AI, 732 lines written by hand (97.67% AI-written)
+
+🔤 5,148,176 Input Tokens, 1,800,558 Output Tokens
+
+💵 $437.46 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 31 AI Prompts
+
+Opus                     31,853 lines        █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.67% of written lines came from AI
+📚 Verbose Prompter — average 6,774 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.95% of changed lines were hand-edited
+```
+
+
+ Last Updated on 01/11/2026 19:29:04 UTC
 <!--END_SECTION:waka-->
